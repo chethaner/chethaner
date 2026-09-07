@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&height=70&lines=Hey+%F0%9F%91%8B+I'm+Chethan+E+R;AI+%26+ML+Engineer+in+the+Making;Building+Intelligent+Systems;VTU+%7C+Batch+2027" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&height=70&lines=Hey+%F0%9F%91%8B+I'm+Chethan+Gowda+E+R;AI+%26+ML+Engineer+in+the+Making;Building+Intelligent+Systems;VTU+%7C+Batch+2027" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=700&color=7C3AED&background=00000000&center=true&vCenter=true&width=900&height=40&lines=%24+whoami+%E2%86%92+Chethan+E+R+%7C+AI+%26+ML+Student+%7C+VTU+2027;%24+cat+stack.txt+%E2%86%92+Python+%7C+TensorFlow+%7C+PyTorch+%7C+React;%24+ls+~%2Fprojects+%E2%86%92+ConflictRAG+%7C+More+Coming+Soon;%24+focus+--now+%E2%86%92+ML+%7C+Deep+Learning+%7C+RAG+Pipelines;%24+cat+open-to.txt+%E2%86%92+AI+Engineer+%7C+Internships+%7C+Collaborations" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=700&color=7C3AED&background=00000000&center=true&vCenter=true&width=900&height=40&lines=%24+whoami+%E2%86%92+Chethan+Gowda+E+R+%7C+AI+%26+ML+Student+%7C+VTU+2027;%24+cat+stack.txt+%E2%86%92+Python+%7C+TensorFlow+%7C+PyTorch+%7C+React;%24+ls+~%2Fprojects+%E2%86%92+ConflictRAG+%7C+More+Coming+Soon;%24+focus+--now+%E2%86%92+ML+%7C+Deep+Learning+%7C+RAG+Pipelines;%24+cat+open-to.txt+%E2%86%92+AI+Engineer+%7C+Internships+%7C+Collaborations" />
 
 <br/>
 
@@ -149,7 +149,7 @@ open_to:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/chethan-gowda-e-r-1a6000325">
-  <img src="https://img.shields.io/badge/LinkedIn-Chethan%20E%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Chethan%20Gowda%20E%20R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:chethaner1@mail.com">
